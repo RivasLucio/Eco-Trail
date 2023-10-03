@@ -1,0 +1,9 @@
+.wpp  {
+    position: fixed;
+    left: 92%;
+    bottom: 1vw;
+}
+.wpp img {
+    width: 5vw;
+    cursor: pointer;
+}

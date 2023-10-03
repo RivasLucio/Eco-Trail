@@ -1,0 +1,83 @@
+.cursos-inicio {
+  display: flex;
+  background: #d9d9d9;
+  height: 60vw;
+}
+
+.cursos-inicio-left,
+.cursos-inicio-right {
+  flex: 1;
+  width: 50%;
+  box-sizing: border-box;
+}
+
+.cursos-inicio-left img {
+  width: 100%;
+  height: 100%;
+}
+
+.cursos-inicio-right p {
+  font-size: 1.7vw;
+  text-align: left;
+  margin: 10%;
+  padding-top: 20%;
+}
+
+.cards-container {
+  display: flex;
+  justify-content: center;
+  gap: 3vw;
+}
+
+.card {
+  margin-top: 3vw;
+  width: 22%;
+  border: 1px solid #cac4d0;
+  border-radius: 1vw;
+  margin-bottom: 4vw;
+}
+.card img {
+  width: 100%;
+  height: 14vw;
+}
+.card-top-1 {
+  display: flex;
+  gap: 1.5vw;
+  margin-left: 1vw;
+  padding: 0.5vw;
+}
+.card-top-1 span {
+  background: #016633;
+  height: 2vw;
+  width: 2vw;
+  margin-top: 0.5vw;
+  border-radius: 50%;
+  color: white;
+  font-size: 1vw;
+  display: inline-block;
+  text-align: center;
+  line-height: 2vw;
+}
+.card-top-1-tittle h3 {
+    opacity: .6;
+}
+
+.card-bottom {
+  padding: 0.7vw;
+}
+.card-bottom h4 {
+    margin-bottom: 1vw;
+    opacity: .4;
+}
+.card-bottom p {
+  margin-bottom: 2.5vw;
+  opacity: .8;
+}
+.card-bottom a {
+  margin-left: 60%;
+  background: #016633;
+  color: white;
+  padding: 0.4vw;
+  padding-inline: 1.5vw;
+  border-radius: 1vw;
+}

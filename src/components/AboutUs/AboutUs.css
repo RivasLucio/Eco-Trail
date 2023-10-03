@@ -1,0 +1,38 @@
+.aboutUs {
+    background-image: url(../../assets/img/img2.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    height: 60vw;
+    width: 100%;
+}
+.mision {
+    background: #77A539;
+    padding: 3vw;
+    font-size: 1.5vw;
+}
+.mision ul {
+    width: 90%;
+    padding-left: 2vw;
+}
+.quienes-somos {
+    background: #F9E5C3;
+    display: flex;
+    gap: 4vw;
+    height: 55vw;
+}
+.quienes-somos img {
+    width: 50%;
+}
+.quienes-somos p {
+    width: 40%;
+    padding-top: 4vw;
+    font-size: 1.3vw;
+}
+.contacto {
+    background: #016633;
+    color: white;
+    text-align: center;
+    padding-top: 10vw;
+    padding-bottom: 10vw;
+}

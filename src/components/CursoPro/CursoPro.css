@@ -1,0 +1,10 @@
+.basico {
+    height: 45vw;
+}
+.basico p {
+    position: relative;
+    top: 15vw;
+    left: 10vw; 
+    font-size: 1vw;
+    width: 50%;
+}

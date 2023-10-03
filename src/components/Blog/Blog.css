@@ -1,0 +1,9 @@
+.blog {
+    background-image: url(../../assets/img/img5.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    height: 60vw;
+    width: 100%;
+  }
+  
